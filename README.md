@@ -1,4 +1,5 @@
 TASK 1
+
 In Flexbox, you can align elements horizontally and vertically using the following properties:
 
 Main Axis (usually horizontal)
@@ -28,6 +29,7 @@ Values:
   align-self: Allows you to override the alignment of individual items within a flex container (useful for one-off custom alignments).
 
 TASK 2
+
 What is Flexbox?
 Flexbox (Flexible Box Layout) is a layout model in CSS designed to lay out elements in a container along a single axis (either horizontally or vertically). It was introduced to solve the common issues that arise when using older layout techniques such as float and inline-block. Flexbox allows you to distribute space within a container, even when the sizes of the items are unknown or dynamic.
 

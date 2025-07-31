@@ -55,6 +55,7 @@ Item Ordering:
 Equal and Dynamic Spacing:
 
   Flexbox allows for dynamic and flexible spacing with properties like flex-grow, flex-shrink, and flex-basis. You can make items grow or shrink depending on the available space, and this is not something you can do easily with float or inline-block.
+
 TASK 3
 
 Flex Container Properties:

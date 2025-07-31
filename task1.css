@@ -1,0 +1,44 @@
+/* <--Float ile yazilmis bir misal--> */
+
+/* .container{
+    width: 100%;
+}
+
+.column{
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+} */
+
+/* 
+<--Flexbox ile yazilmis misal--> */
+
+body{
+    background-image: url('./background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}   
+.container{
+    display: flex;
+}
+
+.column{
+    flex: 1;
+    padding: 10px;
+    box-sizing: border-box;
+}  
+
+p{
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+ol{
+    font-size: medium;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(0, 0, 0);
+} 

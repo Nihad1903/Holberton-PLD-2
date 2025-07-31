@@ -1,0 +1,29 @@
+
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+
+header, footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #ccc;
+}
+
+
+main {
+  flex: 1;
+  display: flex;
+  justify-content: center;   
+  align-items: center;       
+  background-color: #f5f5f5;
+}

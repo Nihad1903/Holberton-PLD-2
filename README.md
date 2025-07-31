@@ -92,3 +92,15 @@ flex-shrink: How much an item can shrink (default 1).
 flex-basis: The initial size of the item (default auto).
 
 It can take any combination of these values.
+
+
+TASK 5
+
+What are the shorthand properties for flex in CSS?
+The main shorthand is flex. It sets flex-grow, flex-shrink, and flex-basis in one line.
+Example: flex: 1 1 200px; means grow and shrink as needed, starting at 200px wide.
+
+TASK 6
+
+How can you design a page layout with Flexbox in mind?
+Divide your page into sections (like header, main, footer). Use display: flex to arrange items. Use Flexbox properties to align and space them. Add media queries to make the layout responsive on small screens.
